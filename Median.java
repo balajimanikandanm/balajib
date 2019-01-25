@@ -19,7 +19,7 @@ int Array_Size=sc.nextInt();
           {
             temp=temp+Array_value[i];
           }
-          Min_value=(temp/Array_Size);
-          System.out.print(Min_value);
+          min=(temp/Array_Size);
+          System.out.print(min);
         }
       }  
