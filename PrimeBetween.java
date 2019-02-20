@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class PrimeBetween
+class PrimeBetween
 {
 public static void main(String[] args)
 {
