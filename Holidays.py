@@ -1,7 +1,15 @@
 day=input()
-if day== "Monday"or"Tuesday"or"Wednesday"or"Thursday"or"Friday":
-  return no
+if day== "Monday":
+  print("no")
+elif day=="Tuesday":
+  print("no")
+elif day=="Wednesday":
+  print("no")
+elif day=="Thursday":
+  print("no")
+elif day=="Friday":
+  print("no")
 elif day== "Saturday" or "Sunday":
-  return yes
+  print("yes")
 else:
  print("invalid")
