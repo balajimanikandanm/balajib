@@ -1,4 +1,4 @@
-class Treeoper
+public class Treeoper
 {
 	void zigZagTraversal(Node root)
 	{
